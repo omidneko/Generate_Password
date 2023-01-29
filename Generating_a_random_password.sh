@@ -5,7 +5,7 @@
 
 # A sample Bash script, by omidneko
 
-#clear
+clear
 
 echo "
 #   _______  _______ _________ ______   _        _______  _        _______  _______    _________ _______ 
